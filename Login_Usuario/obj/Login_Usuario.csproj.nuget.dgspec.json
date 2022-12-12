@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cteds_06\\dev\\Login_Usuario\\Login_Usuario\\Login_Usuario.csproj": {}
+    "C:\\dev\\xaml_login_sample\\Login_Usuario\\Login_Usuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cteds_06\\dev\\Login_Usuario\\Login_Usuario\\Login_Usuario.csproj": {
+    "C:\\dev\\xaml_login_sample\\Login_Usuario\\Login_Usuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cteds_06\\dev\\Login_Usuario\\Login_Usuario\\Login_Usuario.csproj",
+        "projectUniqueName": "C:\\dev\\xaml_login_sample\\Login_Usuario\\Login_Usuario.csproj",
         "projectName": "Login_Usuario",
-        "projectPath": "C:\\Users\\cteds_06\\dev\\Login_Usuario\\Login_Usuario\\Login_Usuario.csproj",
-        "packagesPath": "C:\\Users\\cteds_06\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cteds_06\\dev\\Login_Usuario\\Login_Usuario\\obj\\",
+        "projectPath": "C:\\dev\\xaml_login_sample\\Login_Usuario\\Login_Usuario.csproj",
+        "packagesPath": "C:\\Users\\Conviso\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\xaml_login_sample\\Login_Usuario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cteds_06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Conviso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://nuget.org/": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -72,7 +72,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

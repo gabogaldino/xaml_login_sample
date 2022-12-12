@@ -36,9 +36,12 @@
         <TextBox Margin="60 16 60 0" 
                  Width="360" 
                  HorizontalAlignment="Center" 
+                 x:Name="usernameTextBox" 
+                 IsReadOnly="False"
+                 Text="{Binding ElementName=usernameTextBox}"
                  Background="#D9D9D9" 
                  BorderBrush="#D9D9D9" 
-                 Height="60" />
+                 Height="60" TextChanged="TextBox_TextChanged" />
 
         <Label FontSize="16px"
                Margin="60 85 60 0" 
@@ -50,7 +53,9 @@
         <TextBox 
                  Margin="60 16 60 0"
                  HorizontalAlignment="Center" 
-                 Background="#D9D9D9" 
+                 x:Name="passwordTextBox" IsReadOnly="False"
+                 Background="#D9D9D9"
+                 x:Name="passwordTextBlock" Text="{Binding ElementName=passwordTextBox}"
                  BorderBrush="#D9D9D9" 
                  Height="60" 
                  Width="360" />
@@ -63,6 +68,6 @@
                 FontFamily="Inter" 
                 FontSize="16px" 
                 Background="#D9D9D9" 
-                BorderBrush="#D9D9D9"/>
+                BorderBrush="#D9D9D9" Click="Button_Click"/>
     </StackPanel>
 </Window>

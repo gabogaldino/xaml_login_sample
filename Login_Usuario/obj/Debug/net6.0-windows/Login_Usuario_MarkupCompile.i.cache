@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\cteds_06\dev\Login_Usuario\Login_Usuario\obj\Debug\net6.0-windows\
+C:\dev\xaml_login_sample\Login_Usuario\obj\Debug\net6.0-windows\
 Login_Usuario
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\cteds_06\dev\Login_Usuario\Login_Usuario\App.xaml
+C:\dev\xaml_login_sample\Login_Usuario\App.xaml
 11407045341
 
 71111623993
-2122002208813
+194-2004305220
 MainWindow.xaml;
 
-True
+False
 
